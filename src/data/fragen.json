@@ -1,0 +1,845 @@
+[
+  {
+    "id": "BWL2a",
+    "category": "economics",
+    "question": "Was versteht man unter Kapitalfreisetzungseffekt?",
+    "answers": [
+      "Der Kapitalfreisetzungseffekt besagt, dass Anlagevermögensgegenstände, die der Abschreibung unterliegen, Mittel freisetzen, wenn das Unternehmen die Abschreibungsbeträge in die Preise einrechnen und diese Preise am Markt durchsetzen kann."
+    ],
+    "correct": "Abschreibungsbetäge werden in die Preise eingerechnet."
+  },
+  {
+    "id": "BWL2b",
+    "category": "economics",
+    "explanation": "Transportlogistik umfasst die Planung und Durchführung von Maßnahmen zur optimalen Gestaltung des Transportes bei der Wahl der Transportmittel, Transportwege, Beladung und Entladung, Übergabe usw. Transportwirtschaft Die Transportwirtschaft dient der Ortsveränderung von Personen, Gütern und Nachrichten auf dem Lande, auf dem Wasser, in der Luft sowie mittels Leitungssystemen, wie dies folgende Abbildung verdeutlichen soll: Rohrleitungs- betriebe Schienenverkehrs- betriebe Luftverkehrs- betriebe Schifffahrts- betriebe Straßenverkehrs- betriebe",
+    "question": "Welche Perspektiven ergeben sich für die Transportwirtschaft für die Zukunft?",
+    "answers": [
+      "Entwicklung energie- und kostensparender Transportmittel sowie - umweltfreundlichere und sichere Transportmittel - Einsatz von Satellitennavigationssystemen (GPS) zur optimalen Routenwahl und Packetverfolgungsdienste - normierte Verpackungen z.B. Container … - Verkürzung der Standzeiten, Verminderung der Umschlagszeiten durch technisch automatisierte Einrichtungen zum Ein- und Ausladen - Kooperationsformen der Verkehrsbetriebe - engere Kooperation vieler Transportbetriebe als Logistikpartner aufgrund des starken Wettbewerbs"
+    ],
+    "correct": "umweltfreundlichere Transportmittel"
+  },
+  {
+    "id": "BWL2c",
+    "category": "economics",
+    "explanation": "Schifffahrtsbetriebe bieten gegenüber dem Landtransport erhebliche Vorteile, dazu zählen ihre hohen Kapazitätsreserven für den Transport großer Mengen, die Entlastung von überlasteten Straßen sowie eine geringe Umweltbelastung durch geringere Lärm- und Schadstoffemissionen im Vergleich zum Straßengüterverkehr.",
+    "question": "Was ist die Binnenschifffahrt?",
+    "answers": [
+      "Binnenschifffahrt beschreibt die Personen- und Güterbeförderung zu inländischen Wässer z.B. Donauschifffahrt."
+    ],
+    "correct": "Donauschifffahrt"
+  },
+  {
+    "id": "BWL2d",
+    "category": "economics",
+    "explanation": "Bei der Beförderung von Gütern zu See ist die Ausstellung eines Konnossement oder Bill ofLading (B/L) üblich. Unter einem Konnossement versteht man ein Frachtpapier, in dem sichder Verfrachter verpflichtet, ein zur Beförderung übernommenes Gut, in einem bestimmtenSeehafen gegen Vorlage dieser Urkunde, an den Berechtigten auszufolgen. Das Konnossement ist somit ein Traditions- bzw. Dispositionspapier und ermöglicht einesymbolische Übergabe.",
+    "question": "Was versteht man unter Schwimmender Ware?",
+    "answers": [
+      "Als schwimmende Ware wird Ware bezeichnet, die sich noch auf dem Weg vom Verkäufer zum Käufer befindet und per Schiff versandt wird."
+    ],
+    "correct": "„Schwimmende Ware“ kann somit jederzeit verkauft oder bei Bedarf verpfändet werden."
+  },
+  {
+    "id": "BWL2e",
+    "category": "economics",
+    "explanation": "Die Bedeutung des Air Cargo (= Luft-Gütertransport) hat in den letzten Jahren an Bedeutung zugenommen, zumal die Kostenspannen im Vergleich zu anderen Transportmitteln geringer wurden. Das entsprechende Dispositionspapier im Air Cargo Bereich bezeichnet man als Airwaybill oder Luftfrachtbrief. Der Luftfrachtbrief ist ähnlich wie das Konnossement ein international einheitlicher Formularsatz.",
+    "question": "Wie kann der Personenluftverkehr, als überwiegender Anteil am Gesamtluftverkehr noch unterschieden werden?",
+    "answers": [
+      "Linienflugbetrieb (va. Turismus und Geschäftsreisen) und Charterflüge (va. private Kleinflieger …) unterschieden werden."
+    ],
+    "correct": "Linienflugbetrieb"
+  },
+  {
+    "id": "BWL2f",
+    "category": "economics",
+    "explanation": "Rohrleitungsbetriebe: Die Bedeutung von Rohrleitungsbetrieben (Pipelines) für die Versorgung der Wirtschaft mit bestimmten, für Rohrleitungsbeförderung geeigneten Produkten nimmt ständig zu. Für Rohrleitungsbeförderung geeignete Güter sind bspw.: gasförmige Güter (z.B. Yamal-Erdgasleitung von der westsibirischen Halbinsel nach Mittel- und Westeuropa – über 5.000 km), Wasser (va. im kommunalen Bereich der Kanalisation), Erdöl und Raffinerieprodukte (z.B. Adria-Wien-Ölpipeline über 420 km), Feststoffe wie Kohle, Mineralien und Erze in Form von „Trübe“ (zermahlene Pulver mit Wasser gemischt). Neben dem Betrieb der Rohrleitungen werden auch umfangreiche Investitionen im Bereich der Betriebsmittel notwendig, wie bspw. Pump-, Schieber- und Druckregulierungsstationen. Die Errichtung und Nutzung von Rohrleitungsbetrieben, wie auch bei allen anderen Transport- und Verkehrsbetrieben, ist eine sehr kapitalintensive Angelegenheit und kann daher idR nur von großen Unternehmen bzw. in Kooperationsformen realisiert werden.",
+    "question": "Von was ist die Nutzung und Auslastung ebenso wie in anderen Bereichen stark abhängig?",
+    "answers": [
+      "Die Auslastung ist von der vorhandenen Infrastruktur abhängig."
+    ],
+    "correct": "abhängig davon, welche Wege und Zeiten dem jeweiligen Transportmittel zur Verfügung stehen usw."
+  },
+
+  {
+    "id": "RW2d",
+    "category": "economics",
+    "question": "Was sind Personengesellschaften?",
+    "explanation": "Personengesellschaften, also beispielsweise OHG, KG oder eine Mischform wie die GmbH & Co. KG sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen. Besondere Personengesellschaften wie GbR oder PartG sind hingegen nicht betroffen, da sie keinen Kaufmanns-Status im Sinne des HGB besitzen bzw. für Freiberufler ausgelegt sind.",
+    "answers": [
+      "a) Personengesellschaften sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen.",
+      "b) GmbH & Co. KG sind nicht bilanzierungspflichtig",
+      "c) Besondere Personengesellschaften wie GbR oder PartG unterliegen auch der Pflicht ihre Bilanzen zu veröffentlichen."
+    ],
+    "correct": "Personengesellschaften sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen."
+  },
+
+  {
+    "id": "RW2e",
+    "category": "economics",
+    "question": "Was ist eine Bilanz?",
+    "explanation": "Das betriebliche Rechnungswesen dient der Planung, Steuerung und Kontrolle des Unternehmensgeschehens. Dazu beinhaltet es verschiedene Verfahren zur systematischen Erfassung und Auswertung aller quantifizierbaren Vorgänge der Unternehmung.",
+    "answers": [
+      "a) Die Bilanz ist zusammen mit der GuV ein Teil des Jahresabschlusses.",
+      "b) Sie umfasst alle Vermögenswerte (Aktiva) und Schulden (Passiva) eines Unternehmens.",
+      "c) Eine Bilanz informiert über die aktuelle Vermögenslage eines Unternehmens, dokumentiert die Geschäftsvorgänge und hilft bei der Gewinnermittlung",
+      "d) Die Rechtsform, der Umsatz und die Tätigkeit eines Unternehmens entscheide darüber, ob es eine Bilanz aufstellen muss."
+    ],
+    "correct": "Die Bilanz ist zusammen mit der GuV ein Teil des Jahresabschlusses. Sie umfasst alle Vermögenswerte (Aktiva) und Schulden (Passiva) eines Unternehmens. Eine Bilanz informiert über die aktuelle Vermögenslage eines Unternehmens, dokumentiert die Geschäftsvorgänge und hilft bei der Gewinnermittlung. Die Rechtsform, der Umsatz und die Tätigkeit eines Unternehmens entscheide darüber, ob es eine Bilanz aufstellen muss."
+  },
+
+  {
+    "id": "RW2f",
+    "category": "economics",
+    "question": "Was ist die Körperschaftsteuer? Welche Aussage ist richtig?",
+    "explanation": "Die Körperschaftsteuer, kurz KSt, wird auf das Einkommen bzw. den Gewinn von juristischen Personen (z. B. Kapitalgesellschaften, Vereine, Zweckbetriebe, Geschäftsbetriebe etc.) erhoben – also komplementär zur :hund:Einkommensteuer für Selbstständige. Wie die :hund:Gewerbesteuer ist die Körperschaftsteuer eine Unternehmenssteuer.",
+    "answers": [
+      "a) Die Körperschaftsteuer wird auch als Gemeinschaftsteuer bezeichnet, da sie sowohl Bund als auch Ländern zusteht",
+      "b) Die Körperschaftssteuer ist die Einkommenssteuer pro Person.",
+      "c) Die Körperschaftsteuer wurde zum ersten Mal 1920 abgeführt, nach der Einführung des Körperschaftsteuergesetzes (KStG) im Zuge einer Finanzreform."
+    ],
+    "correct": "Die Körperschaftsteuer wird auch als Gemeinschaftsteuer bezeichnet, da sie sowohl Bund als auch Ländern zusteht. Die Körperschaftsteuer wurde zum ersten Mal 1920 abgeführt, nach der Einführung des Körperschaftsteuergesetzes (KStG) im Zuge einer Finanzreform."
+  },
+  {
+    "id": "S3Aa",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? Tengo cabeza y no tengo cuerpo, pero no puedo pensar.",
+    "explanation": "(Ich habe einen Kopf und keinen Körper, aber ich kann nicht denken.)",
+    "answers": ["a) ", "b) Un alfiler (Eine Stecknadel)", "c) "],
+    "correct": "Un alfiler (Eine Stecknadel)"
+  },
+  {
+    "id": "S3Ab",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? ¡Lo que más te cuesta para no decir.",
+    "explanation": "Ein bekanntes spanisches Rätsel ist das von Sokrates: (Das, was dich am meisten kostet, um es nicht zu sagen)",
+    "answers": ["a)", "b) Un secreto (Ein Geheimnis)", "c) "],
+    "correct": "Un secreto (Ein Geheimnis)"
+  },
+  {
+    "id": "S3Ac",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera. ",
+    "explanation": "(Innen weiß, außen grün. Wenn du willst, dass ich es dir sage, warte.)",
+    "answers": ["a) ", "b) La pera (Die Birne)", "c) "],
+    "correct": "La pera (Die Birne)"
+  },
+
+  {
+    "id": "S3Ad",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? Tiene dientes y no muerde.",
+    "explanation": "(Sie hat Zähne und beißt nicht.)",
+    "answers": ["a) ", "b) Un peine (Ein Kamm)", "c) "],
+    "correct": "Un peine (Ein Kamm)"
+  },
+  {
+    "id": "S3Ae",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? ¿Qué sube y baja pero no se mueve?",
+    "explanation": "(Was steigt und fällt, aber bewegt sich nicht?)",
+    "answers": ["a) ", "b) La temperatura (Die Temperatur)", "c) "],
+    "correct": "La temperatura (Die Temperatur)"
+  },
+
+  {
+    "id": "S3Af",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? ¿Qué tiene un ojo y no puede ver?",
+    "explanation": "(Was hat ein Auge und kann nicht sehen?)",
+    "answers": ["a) ", "b) Una aguja (Eine Nadel)", "c) "]
+  },
+  {
+    "id": "F3Af",
+    "category": "foreign_languages",
+    "question": "Avec qui Pierre discute-t-il?",
+    "explanation": "Übersetzung auf Deutsch",
+    "answers": [
+      "a) a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère",
+      "b) a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère",
+      "c) a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère"
+    ],
+    "correct": "a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère"
+  },
+  {
+    "id": "G3Ba",
+    "category": "creative_artists",
+    "question": "Woran kann es liegen, dass eine Nähmaschine nicht richtig näht?",
+    "answers": [
+      "a) an der falschen Bedienung",
+      "b) an der falschen Einstellung",
+      "c) am Modell der Nähmaschine"
+    ],
+    "correct": ""
+  },
+  {
+    "id": "G3Bb",
+    "category": "creative_artists",
+    "question": "Wie kann man beim Stricken und Häkeln einen Farbwechsel korrekt vornehmen, die Garnenden richtig zu sichern, um einer Arbeit den letzten Schliff zu geben?",
+    "answers": [
+      "a) an der falschen Bedienung",
+      "b) an der falschen Einstellung",
+      "c) am Modell der Nähmaschine"
+    ],
+    "correct": ""
+  },
+  {
+    "id": "G3Bc",
+    "category": "creative_artists",
+    "question": "Was gibt es für Tricks beim Arbeiten mit Perlen?",
+    "answers": [
+      "a) die Perlen nach Farben sortieren",
+      "b) ein Garn zum einfädeln der Perlen benutzen",
+      "c) die Perlen in gleichen Größen auffädeln."
+    ],
+    "correct": ""
+  },
+  {
+    "id": "G3Be",
+    "category": "creative_artists",
+    "question": "Wie näht man von Hand korrekt?",
+    "answers": [
+      "a) zuerst das Garn einfädeln",
+      "b) Knoten",
+      "c) Fadenenden sichern"
+    ],
+    "correct": "einfädeln, Knoten, Fadenenden sichern"
+  },
+  {
+    "id": "G3Bf",
+    "category": "creative_artists",
+    "question": "Warum kann es beim Nähen zu Knotenbildung kommen?",
+    "answers": [
+      "a) durch ein falsches Einfädeln des Ober- oder Unterfadens",
+      "b) durch eine zu geringe Fadenspannungten",
+      "c) durch ein falsches Spulen der Unterfadenspule"
+    ],
+    "correct": "durch ein falsches Einfädeln des Ober- oder Unterfadens oder durch eine zu geringe Fadenspannungten oder durch ein falsches Spulen der Unterfadenspule"
+  },
+  {
+    "id": "K3Ba",
+    "category": "creative_artists",
+    "question": "Wie werden die Stilepochen in aller Regel eingeordnet, was ist richtig?",
+    "answers": [
+      "a) Romantik, Gotik, Renaissance",
+      "b) Manierismus, Barock, Rokoko",
+      "c) Klassizismus, Romantik, Impressionismus"
+    ],
+    "correct": "Romanik, Gotik, Renaissance, Manierismus, Barock, Rokoko, Klassizismus, Romantik, Impressionismus."
+  },
+  {
+    "id": "K3Bb",
+    "category": "creative_artists",
+    "question": "Was ist unter dem Begriff *Romantik* zu verstehen?",
+    "answers": [
+      "a) beginnende Industrialisierung sowie zunehmende Landflucht in die Städte",
+      "b) die Auflösung des *Heiligen Römischen Reiches Deutscher Nation*",
+      "c) Kaiser Napoleons I. Bonaparte (1769-1821), der über Frankreich und über Europa bestimmte"
+    ],
+    "correct": "Abeginnende Industrialisierung sowie zunehmender Landflucht in die Städte, die Auflösung des *Heiligen Römischen Reiches Deutscher Nation* und Kaiser Napoleons I. Bonaparte (1769-1821), der über Frankreich und über Europa bestimmte."
+  },
+  {
+    "id": "K3Bc",
+    "category": "creative_artists",
+    "question": "Was ist der Ursprung und Name des Impressionismus?",
+    "answers": [
+      "a)Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris.",
+      "b) Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Claude Monet.",
+      "c) detaillierte, realistische Darstellungen zu politischen Anlässen"
+    ],
+    "explanation": "Der ausgesprochen charmant und gefällig daherkommende Stil des Impressionismus mit seinen freundlichen Lichtstimmungen, der leuchtend klaren Farbgebung sowie den das Leben bejahend anmutenden Themengebieten, hat seinen Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris. Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Claude Monet.",
+    "correct": "Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris. Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Claude Monet."
+  },
+  {
+    "id": "K3Bd",
+    "category": "creative_artists",
+    "question": "Welche Berufsgruppen zählen zu den Künstlern?",
+    "answers": [
+      "a) Bildhauer (z. B. Steinbildhauer oder Metallbildhauer)",
+      "b) Comiczeichner c) Schauspieler"
+    ],
+    "correct": "Bildhauer, Comiczeichner"
+  },
+  {
+    "id": "K3Be",
+    "category": "creative_artists",
+    "question": "Wer ist der bekannteste lebende Künstler?",
+    "answers": ["a)Pablo Picasso", "b)Gustav Klimt"],
+    "correct": "Gerhard Richter"
+  },
+  {
+    "id": "K3Bf",
+    "category": "creative_artists",
+    "question": "Welcher Künstler war zu Lebzeiten nicht berühmt?",
+    "answers": [
+      "a) Vincent van Gogh",
+      "b) Peter Paul Rubens",
+      "c)Pablo Picasso"
+    ],
+    "correct": "Vincent van Gogh"
+  },
+  {
+    "id": "L3Aa",
+    "category": "foreign_languages",
+    "question": "Quid est id quod per omnia vadit et tamen numquam ab ipso loco movetur?",
+    "explanation": "",
+    "answers": ["a) Ein Weg (Via).", "b) Ein Fluss.", "c) Eine Entscheidung"],
+    "correct": "Ein Weg (Via)."
+  },
+  {
+    "id": "L3Ab",
+    "category": "foreign_languages",
+    "question": "Quid est id quod semper ante te est, sed non potest videri?",
+    "explanation": "",
+    "answers": ["a) Die Gegenwart", "b) Die Vergangenheit", "c) Die Zukunft"],
+    "correct": "Die Zukunft (Futurum)."
+  },
+  {
+    "id": "L3Ac",
+    "category": "foreign_languages",
+    "question": "Quid est id quod habet urbes, non habet domos; habet montes, non habet arbores; habet aquam, non habet pisces?",
+    "answers": ["a) Ein Buch", "b) Eine Geschichte", "c) Eine Karte"],
+    "correct": "Eine Karte (Mappa)"
+  },
+  {
+    "id": "L3Ad",
+    "category": "foreign_languages",
+    "question": "Was bin ich? Ego sum, quae semper in principio, sed nunquam in fine. Duo me sequuntur semper, sed ego non movere. Ego non possum esse, nisi in verbo tuo.",
+    "explanation": "Ich bin, was immer am Anfang ist, aber niemals am Ende. Zwei folgen mir immer, aber ich bewege mich nicht. Ich kann nicht sein, außer in deinem Wort.",
+    "answers": [
+      "a) Ein Buchstabe",
+      "b) Eine Startlinie",
+      "c) Eine Geschichte im Lehrbuch"
+    ],
+    "correct": "Der Buchstabe \"E\" (im Lateinischen oft \"Ego\" = ich)"
+  },
+  {
+    "id": "L3Ae",
+    "category": "foreign_languages",
+    "question": "Wer bin ich? Ego possum videre sine oculis et audio sine auribus. Sum semper cum te, sed non possum tangere. Omnia sciunt me, sed non possum sentire.",
+    "explanation": "Ich kann sehen, ohne Augen, und hören, ohne Ohren. Ich bin immer bei dir, aber ich kann dich nicht berühren. Alle kennen mich, aber ich kann nicht fühlen.",
+    "answers": [
+      "a) Ein Computer",
+      "b) Eine Zwillingsschwester",
+      "c) Deine Gedanken oder dein Geist"
+    ],
+    "correct": "Deine Gedanken oder dein Geist (im Lateinischen: cogitatio oder animus)"
+  },
+  {
+    "id": "L3Af",
+    "category": "foreign_languages",
+    "question": "Ich beginne mit *A*, habe aber keinen Mund. Ich bin eine Zahl, habe aber keine Hände. Ich kann alles tun, aber bin nie zu sehen. Ich kann nichts tun, aber bin immer da. Was bin ich?",
+    "explanation": "*A*: Die erste Zeile beginnt mit dem Buchstaben *A*. *keinen Mund*: Das lateinische Wort für *etwas* hat keinen Mund. *Ich bin eine Zahl, habe aber keine Hände*: Dies spielt auf die Unendlichkeit der Möglichkeiten an, die etwas haben kann, ohne tatsächlich körperliche Hände zu haben. *Ich kann alles tun, aber bin nie zu sehen*: Ein lateinischer Ausdruck, der die unendlichen Möglichkeiten eines Konzeptes beschreibt. *Ich kann nichts tun, aber bin immer da*: Dies ist ein Wortspiel auf die Unendlichkeit und die Präsenz des *etwas* in der Welt, selbst wenn es keine konkrete Handlung ausführt.",
+    "answers": ["a) viel", "b) wenig", "c) etwas"],
+    "correct": "Aliquid (etwas)"
+  },
+  {
+    "id": "M1a",
+    "category": "math",
+    "question": "Aufgabe: Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
+    "answers": [
+      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar."
+    ],
+    "correct": "Antwort A"
+  },
+  {
+    "id": "M1b",
+    "category": "math",
+    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
+    "answers": ["Lösung Physik-Aufgabe Krämer"],
+    "correct": "Antwort B"
+  },
+  {
+    "id": "M1c",
+    "category": "math",
+    "question": "Lala, Lela und Lila sind Drillinge und sehen völlig gleich aus. Eines Tages treffen Sie eines der drei Mädchen und wollen wissen, ob es Lala ist. Sie dürfen dazu dem Mädchen eine Frage stellen, die es mit »ja« oder »nein« beantworten kann und die aus nicht mehr als drei Wörtern besteht. Sie wissen, dass Lala und Lela immer lügen und Lila immer die Wahrheit sagt.",
+    "answers": [
+      "Ihre Frage könnte lauten: »Bist du Lela?« Lala würde lügen und darum mit »ja« antworten. Und auch Lela würde lügen und deshalb »nein« sagen. Lila hingegen würde wahrheitsgemäß mit »nein« antworten. Sie bekommen folglich ihre eigentliche Frage »Bist du Lala?«, die Sie aber gar nicht gestellt haben, korrekt beantwortet, unabhängig davon, welches der Mädchen vor Ihnen steht."
+    ],
+    "correct": "Lila"
+  },
+
+  {
+    "id": "M1d",
+    "category": "math",
+    "question": "Der grüne und der lila Halbkreis liegen auf dem Durchmesser des Außenkreises. Der Durchmesser des grünen Halbkreises steht zum Durchmesser des lila Halbkreises im Verhältnis . In welchem Verhältnis, in Abhängigkeit von  steht der Inhalt des Arbelos zum Inhalt des blauen Halbkreises?",
+    "answers": [
+      "Verbindet man die Enden des Durchmessers des Außenkreises mit der Ecke des blauen Halbkreises, mit der dieser den Außenkreis berührt, entsteht ein Dreieck (rot), das nach dem Satz des Thales rechtwinklig ist. Dessen Hypotenusenhöhe ist der Durchmesser des blauen Halbkreises. Nach dem Höhensatz des Euklid ist das Produkt der beiden Hypotenusenabschnitte gleich dem Höhenquadrat.Bezeichnet man die Radien der drei Halbkreise mit  und  so gilt deshalb  oder Um die Fläche  des Arbelos zu bestimmen, muss man von der halben Fläche des Außenkreises die Flächen des grünen und des lila Halbkreise abziehen. Es gilt also  was sich zu vereinfachen lässt. Der blaue Halbkreis hat den Inhalt. Da ist, wird daraus. Damit bekommt man für das gesuchte Verhältnis. Dieser Wert ist unabhängig von Durchmesserverhältnis des grünen und des lila Halbkreises.."
+    ],
+    "correct": "blauer Halbkreis"
+  },
+
+  {
+    "id": "M1e",
+    "category": "math",
+    "question": "In der Aufgabe 14 des Papyrus soll der Rauminhalt des Stumpfes einer geraden Pyramide berechnet werden. Grundfläche und Deckfläche des Pyramidenstumpfs sind Quadrate der Seitenlängen 4 beziehungsweise 2. Der Pyramidenstumpf hat die Höhe 6. Wie groß ist sein Volumen?",
+    "answers": [
+      "Im Moskauer Papyrus wird der Pyramidenstumpf in einen Quader, vier Prismen und vier Pyramiden zerlegt. Dann werden die Volumina der Teilkörper einzeln berechnet. Der Quader hat das Volumen, jedes Prisma das Volumen und jede Pyramide das Volumen. Somit beträgt das Volumen des Pyramidenstumpfs."
+    ],
+    "correct": "Pyramidenstumpf"
+  },
+
+  {
+    "id": "M1f",
+    "category": "math",
+    "question": "Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
+    "answers": [
+      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar.Jedes Palindrom p mit einer geraden Zahl von Stellen hat die Form p = a1a2a3...anan…a3a2a1, wobei a1, a2, a3, ..., an die Ziffern von p sind. Die alternierende Quersumme Q von p ist Q = a1 – a2 + a3 – a4 + a5 – ... – a5 + a4 – a3 + a2 – a1. Zu jeder Ziffer, die addiert wird, gibt es also eine gleichgroße, die subtrahiert wird. Das Ergebnis ist folglich Q = 0. Da 0 natürlich durch 11 teilbar ist, muss auch jedes Palindrom mit einer geraden Anzahl von Stellen durch 11 teilbar sein. Es kann deshalb außer 11 selbst keine Primzahl geben, die ein Palindrom mit einer geraden Stellenzahl ist."
+    ],
+    "correct": "Es gibt keine außer 11"
+  },
+
+  {
+    "id": "P1a",
+    "category": "math",
+    "question": "Man nehme einen Shaker etwas größerer Bauart und befülle ihn mit 1 kg Eis (aus Wasser von 0° C) und 1 kg kochend Wasser (100 °C). Frage: Welche Temperatur des Gemisches ist nach Schütteln bis zur Schmelze des Eises zu erwarten?",
+    "explanation": "Definition einer Kalorie: 1 cal ist diejenige Wärmemenge, die benötigt wird, um die Temperatur von 1 g Wasser um 1 Grad zu erhöhen (bei einer bestimmten Temperatur – diese Ungenauigkeit ist aber hier vernachlässigbar). 1 kg Wasser kann also beim Abkühlen von 100 °C auf 0 °C 100 kcal abgeben. Tabellenbuch Physik: 1 kg Eis verbraucht beim Schmelzen 80 kcal (79,4 kcal). Wenn 1 kg Eis geschmolzen sind, sind von den 100 kcal noch 20 übrig; oder anders ausgedrückt, der eine Liter heißes Wasser wurde auf 20 °C abgekühlt. Das geschmolzene Eis (ca. 1 Liter) hat 0 °C.",
+    "answers": [
+      "a) Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 15°C",
+      "b) Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 5°C",
+      "c) Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 10°C"
+    ],
+    "correct": "Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 10°C."
+  },
+  {
+    "id": "P1b",
+    "category": "math",
+    "question": "Nimm in der Schwerelosigkeit einen Tisch, stelle eine Federwaage drauf, und lege darauf die Erde. Wie viel zeigt die Waage an, wenn man annimmt, dass die Waage selbst masselos ist?",
+    "explanation": "Wer es nicht glaubt, soll einfach ein Experiment machen. Man lege eine Waage kopfüber auf den Fußboden und darauf (wieder kopfüber) einen Tisch. Ob die Erde nun auf dem Tisch oder der Tisch auf der Erde liegt, ist Ansichtssache - das zugrunde liegende Gravitationsgesetz F = g*m1*m2/s2 ist symmetrisch; ob man für m1 die Masse der Erde und für m2 die Masse des Tisches einsetzt oder für m2 die Masse der Erde.",
+    "answers": [
+      "a) Das Gravitationsgesetz ist symmetrisch, das heißt die Waage zeigt das Gewicht des Tisches an.",
+      "b) Das Gravitationsgesetz besagt, dass die beiden Massen multipliziert werden, und dann durch das Gewicht der Erde geteilt wird um auf das Gewicht des Tisches zu kommen",
+      "c) Das Gravitationsgesetz ist symmetrisch, das heißt die Waage zeigt kein Gewicht an."
+    ],
+    "correct": "Das Gravitationsgesetz ist symmetrisch, das heißt die Waage zeigt das Gewicht des Tisches und der Erde an."
+  },
+  {
+    "id": "P1b",
+    "category": "math",
+    "question": "Zwei Flugzeuge starten zeitgleich vom Frankfurter Flughafen. Das eine fliegt eine Stunde lang genau nach Norden, das andere fliegt eine Stunde lang genau nach Osten. Welches der beiden Flugzeuge ist nach einer Stunde weiter von Frankfurt entfernt und Warum?",
+    "explanation": "Es gelten die üblichen idealisierten Annahmen: Die Flugzeuge fliegen exakt gleich hoch und gleich schnell. Die Flugzeuge und Frankfurt sind punktförmig. Es gibt keine Defekte oder dergleichen. Die Erde ist eine perfekte Kugel und dreht sich nicht. Es ist windstill, es herrscht konstanter Luftdruck. Die Schwerkraft ist überall gleich. Die Zeitzonen spielen keine Rolle. Das nach Norden fliegende Flugzeug fliegt genau entlang eines Meridians, das ist ein Großkreis, also der größte Kreis, den man um die Erde legen kann. Das nach Osten fliegende Flugzeug fliegt entlang eines Breitengrades. Die Breitengrade sind unterschiedlich lang. Am Äquator ist der Nullte Breitengrad auch ein Großkreis; zu den Polen hin werden die Breitengradkreise immer kürzer. Der Abstand des nach Osten fliegenden Flugzeuges von Frankfurt wird aber entlang eines Großkreises gemessen, der durch Frankfurt und die Position des Flugzeuges nach einer Stunde geht. Der Breitengrad, auf dem das Flugzeug entlang geflogen ist, und dieser Großkreis bilden auf der Kugeloberfläche der Erde ein Zweieck, wobei die Breitengrad-Seite länger ist als die Großkreis-Seite.",
+    "answers": [
+      "a) Das Flugzeug welches nach Norden fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Osten fliegt.",
+      "b) Das Flugzeug, welches nach Osten fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Norden fliegt."
+    ],
+    "correct": "Das Flugzeug, welches nach Norden fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Osten fliegt."
+  },
+  {
+    "id": "P1d",
+    "category": "math",
+    "question": "Warum vertauscht der Spiegel links und rechts, aber nicht oben und unten?",
+    "explanation": [
+      "Der Spiegel vertauscht weder oben/unten noch links/rechts. Szenario: Ein Spiegel, eine Person A, die in den Spiegel schaut (und als Erweiterung: eine Gipsstatue B, die hinter A steht, auch in den Spiegel schaut und ihre linke Hand hebt)."
+    ],
+    "answers": [
+      "a) Ein Spiegel vertauscht nicht links und rechts, sondern vorne und hinten.",
+      "b) Ein Spiegel vertauscht links und rechts, da wir es nur spiegelverkehrt sehen.",
+      "c) Ein Spiegel vertauscht oben und unten nicht, da das Richtungsbezeichnungen sind und es nur eine Richtung getauscht wird, entweder links und rechts oder oben und unten."
+    ],
+    "correct": "Ein Spiegel vertauscht nicht links und rechts, sondern vorne und hinten (was bei ein wenig Nachdenken ja sofort einsichtig wird). Man sieht also eine *auf-links-gedrehte* Kopie seiner selbst, ganz analog zu einem rechten Handschuh, der, wenn man ihn umwendet, zu einem linken Handschuh wird. Und so wird jeder Rechtshänder im Spiegel zum Linkshänder (und umgekehrt)."
+  },
+  {
+    "id": "P1e",
+    "category": "math",
+    "question": " An einem Seil, das über eine Rolle läuft, ist an dem einen Ende eine Bananenstaude festgemacht. Das andere Seilende wird von einem Affen mit seinem gesamten Körpergewicht im Gleichgewicht gehalten. Was passiert, wenn der Affe auf die Idee kommt, an dem Seil hinaufzuklettern? Der physikalischen Korrektheit halber sei angenommen, dass sowohl das Seil als auch das Rad reibungsfrei laufen und gewichtsmäßig vernachlässigbar sind.",
+    "answers": [
+      "a) Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnt trotzdem nur der Affe an Höhe.",
+      "b) Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnen beide auch gleichmäßig an Höhe."
+    ],
+    "correct": "Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnen beide auch gleichmäßig an Höhe."
+  },
+
+  {
+    "id": "P1f",
+    "category": "math",
+    "question": "Zur Verfügung steht eine Balkenwaage. Anton legt auf der Erde links Federn und rechts Eisen drauf, so dass die Waage im Gleichgewicht ist. Jetzt transportiert Anton das gesamte Experiment auf den Mond. Was zeigt die Waage an?",
+    "explanation": "Auf der Erde wird ein Teil der Schwerkraft durch die Auftriebskraft der Luft ausgeglichen. Da 1 kg Federn ein größeres Volumen hat als 1 kg Eisen, ist der Auftrieb der Federn größer als der Auftrieb des Eisenklumpens. Da es auf dem Mond keine Atmosphäre gibt, entfällt der Auftrieb, die Schwerkraft ist jetzt auf beiden Seiten voll wirksam.",
+    "answers": [
+      "a) Die Balkenwaage zeigt an, dass das Eisen schwerer ist.",
+      "b) Die Balkenwaage zeigt an, dass die Federn schwerer sind.",
+      "c) Die Balkenwage zeigt auf dem Mond genauso an, dass die Federn und das Eisen gleich viel wiegen."
+    ],
+    "correct": "Die Balkenwaage zeigt an, dass die Federn schwerer sind."
+  },
+
+  {
+    "id": "S3Aa",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? Tengo cabeza y no tengo cuerpo, pero no puedo pensar.",
+    "explanation": "(Ich habe einen Kopf und keinen Körper, aber ich kann nicht denken.)",
+    "answers": ["a) ", "b) Un alfiler (Eine Stecknadel)", "c) "],
+    "correct": "Un alfiler (Eine Stecknadel)"
+  },
+  {
+    "id": "S3Ab",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? ¡Lo que más te cuesta para no decir.",
+    "explanation": "Ein bekanntes spanisches Rätsel ist das von Sokrates: (Das, was dich am meisten kostet, um es nicht zu sagen)",
+    "answers": ["a)", "b) Un secreto (Ein Geheimnis)", "c) "],
+    "correct": "Un secreto (Ein Geheimnis)"
+  },
+  {
+    "id": "S3Ac",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera. ",
+    "explanation": "(Innen weiß, außen grün. Wenn du willst, dass ich es dir sage, warte.)",
+    "answers": ["a) ", "b) La pera (Die Birne)", "c) "],
+    "correct": "La pera (Die Birne)"
+  },
+
+  {
+    "id": "S3Ad",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? Tiene dientes y no muerde.",
+    "explanation": "(Sie hat Zähne und beißt nicht.)",
+    "answers": ["a) ", "b) Un peine (Ein Kamm)", "c) "],
+    "correct": "Un peine (Ein Kamm)"
+  },
+  {
+    "id": "S3Ae",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? ¿Qué sube y baja pero no se mueve?",
+    "explanation": "(Was steigt und fällt, aber bewegt sich nicht?)",
+    "answers": ["a) ", "b) La temperatura (Die Temperatur)", "c) "],
+    "correct": "La temperatura (Die Temperatur)"
+  },
+
+  {
+    "id": "S3Af",
+    "category": "foreign_languages",
+    "question": "¿Qué es, qué es? ¿Qué tiene un ojo y no puede ver?",
+    "explanation": "(Was hat ein Auge und kann nicht sehen?)",
+    "answers": ["a) ", "b) Una aguja (Eine Nadel)", "c) "],
+    "correct": "Una aguja (Eine Nadel)"
+  },
+
+  {
+    "id": "WB3A",
+    "category": "creative_artists",
+    "question": "",
+    "answers": [
+      "a) um bequem darauf zu sitzen",
+      "b) um einen Schraubstock darauf anzubringen",
+      "c) um Holz sicher zu bearbeiten"
+    ],
+    "explanation": "Um Holz ergonomisch und sicher zu bearbeiten, benötigen Sie eine funktionale Werkbank. Diese bietet Platz für Werkstücke in vielen Größen und erlaubt auch das Anbringen eines Schraubstocks.",
+    "correct": "Um Holz sicher zu bearbeiten und einen Schraubstock darauf anzubringen."
+  },
+  {
+    "id": "W3Bb",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker eines Schraubstock?",
+    "answers": [
+      "a) um ein Holzwerkstück zu fixieren",
+      "b) um feinere Arbeiten damit auszuführen",
+      "c) um starke Erschütterungen zu überstehen"
+    ],
+    "explanation": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen.",
+    "correct": "um ein Holzwerkstück zu fixieren und um starke Erschütterungen zu überstehen."
+  },
+  {
+    "id": "W3Bc",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker eine Zwinge?",
+    "answers": [
+      "a) um Holzplatten zu fixieren",
+      "b) um feinere Arbeiten damit auszuführen",
+      "c) um starke Erschütterungen zu überstehen"
+    ],
+    "explanation": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen.",
+    "correct": "um Holzplatten zu fixieren und Feinarbeiten damit auzuführen"
+  },
+
+  {
+    "id": "W3Bd",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker eine Säge?",
+    "answers": [
+      "a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen",
+      "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung",
+      "c) um damit Gehrungsschnitte mit präzisem Winkel zu realisieren"
+    ],
+    "explanation": "Als Werkzeug für das Bearbeiten von Holz sind sie unverzichtbar. Dabei richtet sich die Art der benötigten Säge nach der jeweiligen Tätigkeit. Mit einem Fuchsschwanz als Universalsäge sowie einer Feinsäge können Sie die meisten Arbeiten erledigen. Auch elektrische Stich- und Kreissägen sind hilfreich für die Holzbearbeitung. So lassen sich mit einer Handkreissäge beispielsweise Gehrungsschnitte mit präzisem Winkel realisieren.",
+    "correct": "Stich- und Kreissägen sind hilfreich für die Holzbearbeitung um damit Gehrungsschnitte mit präzisem Winkel zu realisieren. Mit einem Fuchsschwanz als Universalsäge können Sie die meisten Arbeiten erledigen."
+  },
+
+  {
+    "id": "W3Be",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
+    "answers": [
+      "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
+      "b) Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein",
+      "c) um damit präzise auszumessen."
+    ],
+    "explanation": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein..",
+    "correct": "Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben. Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein"
+  },
+
+  {
+    "id": "W3Bf",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
+    "answers": [
+      "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
+      "b) Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein",
+      "c) um damit präzise auszumessen."
+    ],
+    "explanation": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein..",
+    "correct": "Es gibt keine außer 11"
+  },
+
+  {
+    "id": "WG2a",
+    "category": "economics",
+    "question": "Was bedeutet der Begriff Homo oeconomicus?",
+    "explanation": "Der homo oeconomicus ist ein fiktiver, rein rational handelnder Akteur, der stets versucht, seinen individuellen Nutzen zu maximieren. Er besitzt vollständige Informationen über alle Handlungsalternativen, wägt diese logisch gegeneinander ab und entscheidet sich immer für die ökonomisch beste Option.",
+    "answers": [
+      "a) aDer homo oeconomicus verfolgt eigennützige Ziele (z. B. Gewinnmaximierung, Nutzenmaximierung).",
+
+      "b) Er handelt vollständig rational: trifft Entscheidungen logisch und konsistent, ohne von Emotionen, Gewohnheiten oder sozialen Normen abgelenkt zu werden.gage",
+
+      "c) Er verfügt nicht über vollständige Informationen."
+    ],
+
+    "correct": "Der homo oeconomicus verfolgt eigennützige Ziele. Er handelt vollständig rational: trifft Entscheidungen logisch und konsistent, ohne von Emotionen, Gewohnheiten oder sozialen Normen abgelenkt zu werden."
+  },
+  {
+    "id": "WG2b",
+    "category": "economics",
+    "question": "Was versteht man unter dem Ökonomischen Prinzip?",
+    "explanation": "Das ökonomische Prinzip ist ein Grundsatz der Wirtschaftswissenschaft, der beschreibt, wie Menschen, Unternehmen oder Staaten mit knappen Mitteln möglichst effizient umgehen.Mit möglichst wenig Einsatz möglichst viel erreichen.",
+    "answers": [
+      "a) Minimalprinzip: Ein bestimmtes Ziel soll mit möglichst geringem Mitteleinsatz erreicht werden.",
+      "b) Maximalprinzip: Mit gegebenen Mitteln soll ein möglichst großer Nutzen erzielt werden.",
+      "c) Extremumprinzip (Optimumprinzip): Es wird versucht, ein möglichst günstiges Verhältnis von Aufwand und Ertrag zu erreichen."
+    ],
+    "correct": "Minimalprinzip, Maximalprinzip, Extremumprinzip"
+  },
+  {
+    "id": "WG2c",
+    "category": "economics",
+    "question": "Was versteht man unster dem Satisfizer-Konzept?",
+    "explanation": "",
+    "answers": [
+      "a) aDer homo oeconomicus verfolgt eigennützige Ziele (z. B. Gewinnmaximierung, Nutzenmaximierung).",
+
+      "b) Er handelt vollständig rational: trifft Entscheidungen logisch und konsistent, ohne von Emotionen, Gewohnheiten oder sozialen Normen abgelenkt zu werden.gage",
+
+      "c) Er verfügt nicht über vollständige Informationen."
+    ],
+    "correct": "Alle Beispiele sind richtig."
+  },
+
+  {
+    "id": "WG2d",
+    "category": "economics",
+    "question": "Was versteht man unter dem Homogenitätsprinzip? Sind die Beispiele zur Homogenität richtig?",
+    "explanation": "Das Homogenitätsprinzip besagt, dass eine Funktion (z. B. eine Produktions- oder Nutzenfunktion) in einem bestimmten Grad homogen ist, wenn eine proportionale Veränderung aller eingesetzten Faktoren zu einer proportionalen Veränderung des Ergebnisses führt.",
+    "answers": [
+      "a) Homogenität 1 (linear homogen): Verdopple ich alle Produktionsfaktoren, verdoppelt sich auch die Produktionsmenge.",
+
+      "b) Homogenität < 1: Verdopple ich alle Produktionsfaktoren, wächst die Produktion weniger als doppelt (abnehmende Skalenerträge).",
+
+      "c)Homogenität > 1: Verdopple ich alle Produktionsfaktoren, wächst die Produktion mehr als doppelt (zunehmende Skalenerträge)"
+    ],
+    "correct": "Produktionsfaktoren hängen von der Homogenität ab. Alle Beispiele sind richtig."
+  },
+
+  {
+    "id": "WG2e",
+    "category": "economics",
+    "question": "Was versteht man unter Ökonomische Distanz? Und was sind die Einflussfaktoren?",
+    "explanantion": "Ökonomische Distanz bezeichnet die Kosten und den Aufwand (z. B. Geld, Zeit, Energie), die beim Überwinden einer räumlichen Distanz entstehen.",
+    "answers": [
+      "a) Transportkosten (z. B. Frachtpreise, Benzin, Maut)",
+      "b) Zeitaufwand (z. B. Dauer von Transport oder Pendeln)",
+      "c) Infrastruktur (z. B. Autobahnen, Häfen, Flughäfen, Digitalisierung)",
+      "d) Handelshemmnisse (z. B. Zölle, Bürokratie)"
+    ],
+    "correct": "Transportkosten, Zeitaufwand, Infrastruktur und Handelshemmnisse sind alles Einflussfaktoren."
+  },
+
+  {
+    "id": "WG2f",
+    "category": "economics",
+    "question": "Was ist Wirtschaftsgeografie?",
+    "explanation": "Die Wirtschaftsgeografie untersucht, wie wirtschaftliche Aktivitäten (Produktion, Handel, Dienstleistungen, Verkehr usw.) räumlich verteilt sind, welche Standorte gewählt werden und wie wirtschaftliche Prozesse Räume gestalten und verändern.",
+    "answers": [
+      "a)Standortfaktoren (z. B. Rohstoffe, Arbeitskräfte, Infrastruktur, Markt)",
+      "b) Raumstrukturen (Industriegebiete, Ballungsräume, ländliche Räume)",
+      "c) Globale Verflechtungen (Welthandel, Globalisierung, internationale Arbeitsteilung)",
+      "d) Regionale Unterschiede (wirtschaftsstarke vs. strukturschwache Regionen)",
+      "e) Nachhaltigkeit (Umweltfolgen von Wirtschaft, Ressourcenverbrauch, erneuerbare Energien)"
+    ],
+    "correct": "Standortfaktoren, Raumstrukturen, Globale Verflechtungen, Regionale Unterschiede, Nachhaltigkeit"
+  },
+  {
+    "id": "W3Ba",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker eine Werkbank?",
+    "answers": [
+      "a) um bequem darauf zu sitzen",
+      "b) um einen Schraubstock darauf anzubringen",
+      "c) um Holz sicher zu bearbeiten"
+    ],
+    "explanation": "Um Holz ergonomisch und sicher zu bearbeiten, benötigen Sie eine funktionale Werkbank. Diese bietet Platz für Werkstücke in vielen Größen und erlaubt auch das Anbringen eines Schraubstocks.",
+    "correct": "Um Holz sicher zu bearbeiten und einen Schraubstock darauf anzubringen."
+  },
+  {
+    "id": "W3Bb",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker eines Schraubstock?",
+    "answers": [
+      "a) um ein Holzwerkstück zu fixieren",
+      "b) um feinere Arbeiten damit auszuführen",
+      "c) um starke Erschütterungen zu überstehen"
+    ],
+    "explanation": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen.",
+    "correct": "um ein Holzwerkstück zu fixieren und um starke Erschütterungen zu überstehen."
+  },
+  {
+    "id": "W3Bc",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker eine Zwinge?",
+    "answers": [
+      "a) um Holzplatten zu fixieren",
+      "b) um feinere Arbeiten damit auszuführen",
+      "c) um starke Erschütterungen zu überstehen"
+    ],
+    "explanation": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen.",
+    "correct": "um Holzplatten zu fixieren und Feinarbeiten damit auszuführen"
+  },
+
+  {
+    "id": "W3Bd",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker eine Säge?",
+    "answers": [
+      "a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen",
+      "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung",
+      "c) um damit Gehrungsschnitte mit präzisem Winkel zu realisieren"
+    ],
+    "explanation": "Als Werkzeug für das Bearbeiten von Holz sind sie unverzichtbar. Dabei richtet sich die Art der benötigten Säge nach der jeweiligen Tätigkeit. Mit einem Fuchsschwanz als Universalsäge sowie einer Feinsäge können Sie die meisten Arbeiten erledigen. Auch elektrische Stich- und Kreissägen sind hilfreich für die Holzbearbeitung. So lassen sich mit einer Handkreissäge beispielsweise Gehrungsschnitte mit präzisem Winkel realisieren.",
+    "correct": "Stich- und Kreissägen sind hilfreich für die Holzbearbeitung um damit Gehrungsschnitte mit präzisem Winkel zu realisieren. Mit einem Fuchsschwanz als Universalsäge können Sie die meisten Arbeiten erledigen."
+  },
+  {
+    "id": "L3Ab",
+    "category": "foreign_languages",
+    "question": "Quid est id quod semper ante te est, sed non potest videri?",
+    "explanation": "",
+    "answers": ["a) Die Gegenwart", "b) Die Vergangenheit", "c) Die Zukunft"],
+    "correct": "Die Zukunft (Futurum)."
+  },
+  {
+    "id": "L3Ab_duplicate",
+    "category": "foreign_languages",
+    "question": "Quid est id quod semper ante te est, sed non potest videri?",
+    "answers": ["a) Die Gegenwart", "b) Die Vergangenheit", "c) Die Zukunft"],
+    "correct": "Die Zukunft (Futurum)."
+  },
+  {
+    "id": "L3Ac",
+    "category": "foreign_languages",
+    "question": "Quid est id quod habet urbes, non habet domos; habet montes, non habet arbores; habet aquam, non habet pisces?",
+    "answers": ["a) Ein Buch", "b) Eine Geschichte", "c) Eine Karte"],
+    "correct": "Eine Karte (Mappa)"
+  },
+
+  {
+    "id": "W3Bd",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker eine Säge?",
+    "answers": [
+      "a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen",
+      "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung",
+      "c) um damit Gehrungsschnitte mit präzisem Winkel zu realisieren"
+    ],
+    "explanation": "Als Werkzeug für das Bearbeiten von Holz sind sie unverzichtbar. Dabei richtet sich die Art der benötigten Säge nach der jeweiligen Tätigkeit. Mit einem Fuchsschwanz als Universalsäge sowie einer Feinsäge können Sie die meisten Arbeiten erledigen. Auch elektrische Stich- und Kreissägen sind hilfreich für die Holzbearbeitung. So lassen sich mit einer Handkreissäge beispielsweise Gehrungsschnitte mit präzisem Winkel realisieren.",
+    "correct": "Stich- und Kreissägen sind hilfreich für die Holzbearbeitung um damit Gehrungsschnitte mit präzisem Winkel zu realisieren. Mit einem Fuchsschwanz als Universalsäge können Sie die meisten Arbeiten erledigen."
+  },
+
+  {
+    "id": "W3Be",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
+    "answers": [
+      "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
+      "b) Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein",
+      "c) um damit präzise auszumessen."
+    ],
+    "explanation": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein..",
+    "correct": "Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben. Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein"
+  },
+
+  {
+    "id": "W3Bf",
+    "category": "creative_artists",
+    "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
+    "answers": [
+      "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
+      "b) Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein",
+      "c) um damit präzise auszumessen."
+    ],
+    "explanation": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein..",
+    "correct": "Es gibt keine außer 11"
+  },
+  {
+    "id": "M3Ba",
+    "category": "creative_artists",
+    "question": "Woher stammt die Country Musik?",
+    "answers": ["a) USA", "b) Europa", "c) Japan"],
+    "correct": "...USA...",
+    "explanation": "Zusammenfassung aus Country Musik"
+  },
+  {
+    "id": "M3Bb",
+    "category": "creative_artists",
+    "question": "Nenne 2 untergruppen der musikrichtung Metal!",
+    "answers": [
+      "a) Death Metal und Power Metal",
+      "b) klassik und  techno",
+      "c) Hard Rock und Rock'n'Roll"
+    ],
+    "correct": "...Death Metal und Power Metal....",
+    "explanation": "Zusammenfassung aus Metal"
+  },
+  {
+    "id": "M3Bc",
+    "category": "creative_artists",
+    "question": "um welche zeit entwickelte sich der Jazz und wo?",
+    "answers": ["a) 1950 in Europa", "b) 1900 in USA", "c) 1850 in Russland"],
+    "correct": "...1900 in USA....",
+    "explanation": "Zusammenfassung aus Jazz "
+  },
+  {
+    "id": "M3Bd",
+    "category": "creative_artists",
+    "question": "in welcher Gesellschaft entwickelte sich der Blues, und zu welcher Zeit?",
+    "answers": [
+      "a) In afroamerikanischer Gesellschaft ende 19. Jahrhundert Anfang 20. Jahrhundert",
+      "b) In europäische Gesellschaft Mitte 19. Jahrhundert",
+      "c) In Brasilianische Gesellschaft Anfang 19. Jahrhundert"
+    ],
+    "correct": "...In afroamerikanischer Gesellschaft ende 19. Jahrhundert Anfang 20. Jahrhundert....",
+    "explanation": "Zusammenfassung aus Blues"
+  },
+  {
+    "id": "M3Be",
+    "category": "creative_artists",
+    "question": "Was heißt R&B?",
+    "answers": [
+      "a) Rhythm and Blues",
+      "b) Rock and Blues",
+      "c) Reggae and Blues"
+    ],
+    "correct": "...Rhythm and Blues....",
+    "explanation": "Zusammenfassung aus R&B"
+  },
+  {
+    "id": "M3Bf",
+    "category": "creative_artists",
+    "question": "Welche Musikrichtung stammt aus der schwarzen Funk- und Soul- Musik?",
+    "answers": ["a) Jazz", "b) Hip Hop", "c) Blues"],
+    "correct": "...Hip Hop....",
+    "explanation": "Zusammenfassung aus Hip Hop"
+  }
+]

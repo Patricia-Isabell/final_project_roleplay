@@ -1,0 +1,45 @@
+header.site {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  background: rgba(234, 240, 255, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+}
+.header-inner {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  min-height: var(--header-h);
+}
+.brand {
+  font-weight: 900;
+  letter-spacing: 0.2px;
+  font-size: 1.28rem;
+  background: linear-gradient(90deg, var(--brand), var(--brand-2));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  margin-left: 2rem;
+}
+.nav {
+  margin-left: auto;
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-right: 2rem;
+}
+.nav a {
+  padding: 0.5rem 0.75rem;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  font-weight: 600;
+  color: #15245a;
+}
+.nav a.active {
+  background: #dde8ff;
+  border-color: #c2d3ff;
+  color: #0f1e54;
+}

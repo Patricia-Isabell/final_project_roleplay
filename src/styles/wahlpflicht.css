@@ -1,0 +1,51 @@
+/* Zusätzliche Styles nur für die Wahlpflichtfächer-Seite */
+
+.wahl-grid {
+  align-items: stretch;
+}
+
+/* Fachkarte */
+.subject {
+  transition: opacity 0.2s ease;
+}
+.subject.is-disabled {
+  opacity: 0.6;
+}
+
+/* Kopfbereich der Karte */
+
+.subject__title {
+  margin: 0;
+}
+
+/* Empfehlungs-Badge */
+.badge--recommended {
+  background: #deebff;
+  border: 1px solid #cfe0ff;
+  border-radius: 10px;
+  padding: 0.2rem 0.45rem;
+  font-weight: 700;
+  color: #16275f;
+  font-size: 0.85rem;
+}
+
+/* Beschreibung & Metazeile */
+.subject__desc {
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+.subject__meta {
+  gap: 0.5rem;
+}
+
+/* Controls (Auswählen + Effekte) auf zwei Seiten */
+.subject__controls {
+  justify-content: space-between;
+}
+
+/* Stat-Balken: Breite über CSS-Variable (--pct) von React gesetzt */
+.bar > span {
+  width: var(--pct, 0%);
+  display: block;
+  height: 100%;
+}
